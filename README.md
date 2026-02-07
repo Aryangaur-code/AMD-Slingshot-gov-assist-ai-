@@ -186,4 +186,4 @@ MIT License — Open for education, research, and social innovation.
 
 📧 Email: aryangaur76731@gmail.com 
 🔗 GitHub: https://github.com/your-username/govassist-ai  
-🌐 LinkedIn: https://linkedin.com/in/your-profile  
+🌐 LinkedIn: https://www.linkedin.com/in/aryan-gaur-bb8349293/
